@@ -1,0 +1,4 @@
+applications:
+- name: watson-slitt-se
+memory: 256M
+command: node index.js

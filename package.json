@@ -1,0 +1,25 @@
+{
+  "name": "watsonsentimentapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasaCoder/watsonsentimentapp.git"
+  },
+  "author": "Dilusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasaCoder/watsonsentimentapp/issues"
+  },
+  "homepage": "https://github.com/dasaCoder/watsonsentimentapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "watson-developer-cloud": "^3.11.1"
+  }
+}
